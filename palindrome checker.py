@@ -18,7 +18,7 @@
 
 
 
-# palindrome checker
+# Ezzy"s palindrome checker
 
 p = ["mummmy","hannah","murder for a jar of red rum","mom""seagull","tomato","no lemon",
      "no melon","some men interpret nine memos","madam"]

@@ -12,7 +12,7 @@
     
     
 # spell('john', 'Adamawa' ,"2013")
-# spell('jaocob', 'jerusalem','1987')
+# spell('jaCob', 'jerusalem','1987')
 
 # def multiply(a,b):
 #     c=a*b
